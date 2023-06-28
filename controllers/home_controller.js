@@ -109,7 +109,7 @@ module.exports.EditPage = async function(req,res){ // here we are fetching the d
    }
     
 }
-// function for updatind tada after the todo is being edited
+// function for updatind data after the todo is being edited
 module.exports.editDetails = async function(req,res){
    try {
     dueDate =req.body.dueDate.split('-'); // splitting date and taking montha value

@@ -201,3 +201,20 @@ input.delechack{
 .color-white{
     color: white;
 }
+
+
+
+/* back button style  */
+.link-button {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 12px;
+    height: 18px;
+    width: 70px;
+    background-color: brown;
+    color: white;
+    text-decoration: none;   
+    box-shadow: 0px 0px 1px 1px rgb(14, 6, 6) ; 
+
+}
+
